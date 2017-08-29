@@ -1,5 +1,5 @@
 {
-  "name": "consoledev",
+  "name": "angularjs-dev-console",
   "version": "1.0.0",
   "description": "work witch console only in development space",
   "main": "console.config.js",
