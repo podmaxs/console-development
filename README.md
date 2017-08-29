@@ -1,12 +1,10 @@
 # Console Log - development - AngularJS Module
 <h3>Installation</h3>
-		npm i angularjs-dev-console -S
-
-		angular.module('myApp',['developConsole'])
+	- Install module:  npm i angularjs-dev-console -S
+	- Add module to angularjs app: angular.module('myApp',['developConsole'])
 
 <h3>Description</h3>
 	This module allows no logging to be printed on the console if the environment where the app is run is different from localhost
-
 
 <h3>Basic usage</h3>
 
